@@ -1,6 +1,6 @@
-# Linear-Regression-Bike-Sharing-Case Study
+# Linear-Regression-Bike-Sharing-Assignment
 
-> In this Case study we need to build a model for the prediction of demand for shared bikes.
+> In this Assignment we need to build a model for the prediction of demand for shared bikes.
 
 
 ## Table of Contents
